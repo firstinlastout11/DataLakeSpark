@@ -30,7 +30,7 @@ Through this schema, the database is normalized and organized in such a way that
 
 Since the language used in the project is Python3, it needs to be installed. Also, pyspark needs to be installed (https://spark.apache.org/docs/latest/api/python/pyspark.sql.html).
 Also, since this code utilizes AWS S3 for data, AWS account is necessary.
-Then, create a file called 'dwh.cfg' and fill in as below:
+Then, create a file called 'dl.cfg' and fill in as below:
 
 ```
 [AWS]
